@@ -4,3 +4,5 @@ install.diff
 man-section.diff
 platform-quirks.diff
 disable-tests.diff
+CVE-2018-16301.patch
+CVE-2020-8037.patch
